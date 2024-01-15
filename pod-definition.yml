@@ -10,3 +10,4 @@ spec:
       -name: ngnix-container
       image: ngnix
   #kubectl create -f pod definition.yml
+  
